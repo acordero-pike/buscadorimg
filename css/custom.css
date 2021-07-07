@@ -1,0 +1,28 @@
+body {
+  background: url("https://fundspeople-multisite.s3.eu-west-1.amazonaws.com/wp-content/uploads/sites/2/2020/11/a1e9553e51e10d1c.jpg");
+  background-size: cover;
+  color:black;
+}
+img 
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 25px;
+}
+.icon
+{
+  width: 15px;
+  height: 15px;
+}
+.bg{
+  background: #69167da8;
+  border-radius: 25px;
+  color:white;
+}
+.w-full1
+{
+  width: 50%;
+}
+table{
+  color: white;
+}
